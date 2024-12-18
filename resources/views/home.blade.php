@@ -1,8 +1,7 @@
 @extends('layout')
 @section('title') Gainloe @endsection
 @section('keywords') Home,About,Contact,Car @endsection
-@section('description') Write some descripton about the webpage 
-@endsection
+@section('description') Write some descripton about the webpage @endsection
 @section('content')
 
 <div id="slide_show_in_desktop_mode">
